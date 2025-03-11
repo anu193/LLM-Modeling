@@ -1,0 +1,31 @@
+"reviewText,sentiment",reviewText,sentiment
+"""This is an excellent product, exceeded my expectations!"",positive",Sample review text,positive
+"""Poor quality, broke after first use."",negative",Sample review text,positive
+"""Amazing customer service and fast delivery!"",positive",Sample review text,positive
+"""The product is just okay, nothing special."",negative",Sample review text,positive
+"""Absolutely love it! Best purchase ever."",positive",Sample review text,positive
+"""Waste of money, don't buy this."",negative",Sample review text,positive
+"""Good value for the price."",positive",Sample review text,positive
+"""Not as advertised, very disappointed."",negative",Sample review text,positive
+"""Perfect size and great functionality."",positive",Sample review text,positive
+"""Difficult to use, confusing instructions."",negative",Sample review text,positive
+"""Incredible performance and reliability."",positive",Sample review text,positive
+"""Stopped working after a month."",negative",Sample review text,positive
+"""Great design and very intuitive."",positive",Sample review text,positive
+"""Too expensive for what you get."",negative",Sample review text,positive
+"""Outstanding quality and durability."",positive",Sample review text,positive
+"""The worst product I've ever bought."",negative",Sample review text,positive
+"""Very satisfied with my purchase."",positive",Sample review text,positive
+"""Package arrived damaged."",negative",Sample review text,positive
+"""Highly recommend this product!"",positive",Sample review text,positive
+"""Customer service was terrible."",negative",Sample review text,positive
+"""Works exactly as described."",positive",Sample review text,positive
+"""Not worth the price."",negative",Sample review text,positive
+"""Superior quality and craftsmanship."",positive",Sample review text,positive
+"""Defective product, had to return."",negative",Sample review text,positive
+"""Easy to set up and use."",positive",Sample review text,positive
+"""Product arrived late and damaged."",negative",Sample review text,positive
+"""Fantastic product, no complaints!"",positive",Sample review text,positive
+"""Does not match the description."",negative",Sample review text,positive
+"""Really impressed with the quality."",positive",Sample review text,positive
+"""Save your money, buy something else."",negative",Sample review text,positive
